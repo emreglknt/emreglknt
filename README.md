@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter , React Native**
 
-- 💬 Ask me about **Android , Kotlin , Cyber Security**
+- 💬 Ask me about **Android , Kotlin , Flutter, Cyber Security**
 
 - 📫 How to reach me **emregulkanat@outlook.com**
 
